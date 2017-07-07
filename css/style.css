@@ -1,0 +1,12 @@
+body {
+	font-family: "arial", san-serif;
+	color: #666;
+}
+h1 {
+	padding: 15px;
+	text-align: center;
+}
+form {
+	padding: 20px;
+	margin-bottom: 50px;
+}
